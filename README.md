@@ -30,3 +30,6 @@ I'm on a mission to discover the stories hidden in data through statistical anal
 ### Data Quote 👾
 
 *"If you torture the data long enough, sooner or later it will confess."* - Ronald Coas
+
+## 🌐 Connect with Me
+- LinkedIn: [Batool Alkaddah](https://www.linkedin.com/in/batool-alkaddah/)
