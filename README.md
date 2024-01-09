@@ -26,3 +26,7 @@ I'm on a mission to discover the stories hidden in data through statistical anal
 - **Statistical Modeling:** Regression, Hypothesis Testing, Bayesian Analysis
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub
+
+### Data Quote 👾
+
+*"If you torture the data long enough, sooner or later it will confess."* - Ronald Coas
