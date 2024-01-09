@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Batool Alkaddah, a Data Scientist with a Passion for Statistics 📊🔍
+# I'm Batool Alkaddah, a Data Scientist with a Passion for Statistics 📊🔍
 
 I'm on a mission to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python developement, I bring 3 years of experience in transforming complex datasets into actionable insights.
 
