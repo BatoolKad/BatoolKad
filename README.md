@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm on a mission to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python developement, I bring 3 years of experience in transforming complex datasets into actionable insights.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Java
+- **Languages:** Python, Java, JS, HTML, PHP
 - **Data Analysis:** Pandas, NumPy, SQL
 - **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
 - **Statistical Modeling:** Regression, Hypothesis Testing, Bayesian Analysis
