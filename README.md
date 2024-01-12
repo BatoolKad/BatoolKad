@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Batool, a Developer and Data Scientist with a Passion for Statistics 📊🔍
-🌱 Learning Computer and Data Science @ **[MIT](https://emergingtalent.mit.edu/)**<br>
+### I'm Batool, a Developer and Data Scientist with a Passion for Statistics 📊🔍
+🌱 Learning Computer and Data Science @ **[MIT](https://emergingtalent.mit.edu/)**<br> ReACT
 
-I'm on a mission to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python developement, I bring 3 years of experience in transforming complex datasets into actionable insights.
+I'm on a mission to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python development, I bring 3 years of experience in transforming complex datasets into actionable insights.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, JS, HTML, PHP
@@ -32,6 +32,8 @@ I'm on a mission to discover the stories hidden in data through statistical anal
 
 *"If you torture the data long enough, sooner or later, it will confess."* - Ronald Coas
 ## 📜 Licenses & certifications:
+- [Computational Thinking using Python, XSeries Certificate]([https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a](https://credentials.edx.org/credentials/c07c8ff061d84415827e1973a2ca7ba5/))
+- 
 
 ## 🌐 Connect with Me
 - LinkedIn: [Batool Alkaddah](https://www.linkedin.com/in/batool-alkaddah/)
