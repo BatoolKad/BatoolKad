@@ -33,7 +33,7 @@ I'm on a mission to discover the stories hidden in data through statistical anal
 *"If you torture the data long enough, sooner or later, it will confess."* - Ronald Coas
 ## 📜 Licenses & certifications:
 - [Computational Thinking using Python, XSeries Certificate]([https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a](https://credentials.edx.org/credentials/c07c8ff061d84415827e1973a2ca7ba5/))
-- 
+- [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/certificates/5d62c5f1717e4dd4ad4d6adf702c251d/)
 
 ## 🌐 Connect with Me
 - LinkedIn: [Batool Alkaddah](https://www.linkedin.com/in/batool-alkaddah/)
