@@ -23,7 +23,7 @@ I'm on a mission to discover the stories hidden in data through statistical anal
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, JS, HTML, PHP
 - **Data Analysis:** Pandas, NumPy, SQL
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Streamlit
 - **Statistical Modeling:** Regression, Hypothesis Testing, Bayesian Analysis
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub
