@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Batool, a Developer and Data Scientist with a Passion for Statistics 📊🔍
-🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <be>
-🌱 Contributing to our @ **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**  
+🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <br>
+🌱 Contributing to our @ **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**   <br>
 
 I'm on a mission to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python development, I bring 3 years of experience transforming complex datasets into actionable insights.
 
