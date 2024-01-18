@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <br>
 🌱 Contributing to our **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**   <br>
 
-I'm on a mission to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python development, I bring 3 years of experience transforming complex datasets into actionable insights.
+I'm trying to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python development, I bring 3 years of experience transforming complex datasets into actionable insights.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, JS, HTML, PHP
 - **Data Analysis:** Pandas, NumPy, SQL
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Streamlit
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Streamlit, AutoML
 - **Statistical Modeling:** Regression, Hypothesis Testing, Bayesian Analysis
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub
