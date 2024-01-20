@@ -1,4 +1,4 @@
-### Hi there ![Wave Gif](https://example.com/path/to/your/gif.gif)
+### Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Wave Gif" width="50"/>
 
 
 <!--
