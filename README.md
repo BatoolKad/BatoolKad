@@ -1,5 +1,4 @@
-### Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Wave Gif" width="20"/>
-
+### Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Wave Gif" width="30"/>
 
 <!--
 **BatoolKad/BatoolKad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
