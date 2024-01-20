@@ -28,7 +28,9 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 - **Statistical Modeling:** Regression, Hypothesis Testing, Bayesian Analysis
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub
-
+<p align="right">
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Code Data Gif" width="120" />
+</p>
 ### Data Quote 👾
 
 *"If you torture the data long enough, sooner or later, it will confess."* - Ronald Coas
