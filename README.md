@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 I'm trying to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python development, I bring 3 years of experience transforming complex datasets into actionable insights.
 
+<!--### 📈 Data Science Journey-->
+<!--I'm on a continuous journey to explore the vast world of data science, aiming to bridge the gap between raw data and meaningful insights. My passion lies in uncovering patterns, extracting knowledge, and deriving actionable recommendations from complex datasets.-->
+
+<!--- 🚀 **Current Focus:** Implementing advanced machine learning techniques for predictive modeling.-->
+<!--- 📚 **Learning Path:** Pursuing courses in data science, deep learning, and statistical analysis. -->
+<!--- 💡 **Challenges:** Tackling real-world data problems through hands-on projects and collaborative initiatives. -->
+<!--- 🤝 **Contributions:** Actively contributing to the **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)** to share knowledge and insights. -->
+
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, JS, HTML, PHP
 - **Data Analysis:** Pandas, NumPy, SQL
