@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![Wave Gif](https://example.com/path/to/your/gif.gif)
+
 
 <!--
 **BatoolKad/BatoolKad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
