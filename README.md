@@ -1,5 +1,7 @@
-### Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Wave Gif" width="30"/>
+### Hi there 👋
 
+<!-- <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Wave Gif" width="30"/>
+-->
 <!--
 **BatoolKad/BatoolKad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,8 +41,8 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 <p align="right">
   <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Code Data Gif" width="120" />
 </p>
-### Data Quote 👾
 
+### Data Quote 👾
 *"If you torture the data long enough, sooner or later, it will confess."* - Ronald Coas
 ## 📜 Licenses & certifications:
 - [Computational Thinking using Python, XSeries Certificate](https://credentials.edx.org/credentials/c07c8ff061d84415827e1973a2ca7ba5/), MITx
