@@ -34,7 +34,7 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, JS, HTML, PHP
 - **Data Analysis:** Pandas, NumPy, SQL
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Streamlit, AutoML
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Streamlit, AutoML, Openai
 - **Statistical Modeling:** Regression, Hypothesis Testing.
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub
