@@ -48,8 +48,9 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 - [Computational Thinking using Python, XSeries Certificate](https://credentials.edx.org/credentials/c07c8ff061d84415827e1973a2ca7ba5/), MITx
 - [Fundamentals of Accelerated Computing with CUDA Python](https://courses.nvidia.com/certificates/5d62c5f1717e4dd4ad4d6adf702c251d/), NVIDIA
 - [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/113450088e574ffe983f5952bd81be60/), NVIDIA
+ <!---
 - [Microsoft Office Specialist: Excel Associate (Office 2019)](https://www.credly.com/badges/85b9581f-9e41-4348-980f-36da664f928f/linked_in_profile), Microsoft
-- Mental Health First Aid Canada, MHCC
+- Mental Health First Aid Canada, MHCC -->
 
 ## 🌐 Connect with Me
 - LinkedIn: [Batool Alkaddah](https://www.linkedin.com/in/batool-alkaddah/)
