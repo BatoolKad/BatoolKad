@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!-- <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="Wave Gif" width="30"/>
 -->
