@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### I'm Batool, a Developer and Data Scientist with a Passion for Statistics 📊🔍
 🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <br>
 🌱 Contributing to our **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**   <br>
+😄 Pronouns: She/her
 
 I'm trying to discover the stories hidden in data through statistical analysis. With a solid foundation in regression models and Python development, I bring 3 years of experience transforming complex datasets into actionable insights.
 
@@ -32,12 +33,12 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 <!--- 🤝 **Contributions:** Actively contributing to the **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)** to share knowledge and insights. -->
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Java, JS, HTML, PHP
-- **Data Analysis:** Pandas, NumPy, SQL
-- **Libraries:** Scikit-Learn, TensorFlow, PyTorch, Streamlit, AutoML, Openai
+- **Languages:** Python, Java, JS, HTML, PHP.
+- **Data Analysis:** Pandas, NumPy, SQL.
+- **Libraries:** Scikit-Learn, TensorFlow, PyTorch, Streamlit, AutoML, Openai.
 - **Statistical Modeling:** Regression, Hypothesis Testing.
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
-- **Version Control:** Git, GitHub
+- **Data Visualization:** Matplotlib, Seaborn, Plotly.
+- **Version Control:** Git, GitHub.
 <p align="center">
   <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Code Data Gif" width="150" />
 </p>
