@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm Batool, a Developer and Data Scientist with a Passion for Statistics 📊🔍
 😄 Pronouns: She/her <br>
 🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <br>
-🌱 Contributing to our **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**   <br>
+🌱 Contributing to our **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**  <br>
 👾 My papers: [here](https://scholar.google.com/citations?user=deanutUAAAAJ&hl=fr&oi=sra)<br>
 
 
