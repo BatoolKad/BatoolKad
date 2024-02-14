@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Batool, a Developer and Data Scientist with a Passion for Statistics 📊🔍
+
+
+### I'm Batool, a Developer and Data Scientist with a Passion for Statistics <img src="https://giphy.com/gifs/socialbakers-JrXas5ecb4FkwbFpIE" width="20px" height="20px">
 😄 Pronouns: She/her <br>
 🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <br>
 🌱 Contributing to our **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**  <br>
