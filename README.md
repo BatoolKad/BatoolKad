@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### I'm Batool, a Developer and Data Scientist with a Passion for Statistics <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN2NmltejEzZ203ZnU4N2Y2OGFwYWRmcDNtaTZsaGk4bTZ4bHEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif" width="20px" height="20px">
+### I'm Batool, a Developer and Data Scientist with a Passion for Statistics <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN2NmltejEzZ203ZnU4N2Y2OGFwYWRmcDNtaTZsaGk4bTZ4bHEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif" width="25px" height="25px">
 😄 Pronouns: She/her <br>
 🌱 Learning Computer and Data Science @ **[MIT Emerging Talent](https://emergingtalent.mit.edu/)** | ReACT <br>
 🌱 Contributing to our **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)**  <br>
