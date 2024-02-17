@@ -43,6 +43,7 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 - **Statistical Modeling:** Regression, Hypothesis Testing.
 - **Data Visualization:** Matplotlib, Seaborn, Plotly.
 - **Version Control:** Git, GitHub.
+  
 <p align="center">
   <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Code Data Gif" width="150" />
 </p>
