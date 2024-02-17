@@ -37,7 +37,7 @@ I'm trying to discover the stories hidden in data through statistical analysis. 
 <!--- 🤝 **Contributions:** Actively contributing to the **[MIT Emerging Talent Community](https://github.com/MIT-Emerging-Talent)** to share knowledge and insights. -->
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Java, JS, HTML, PHP.
+- **Languages:** Python, Java, JS, HTML, CSS, PHP.
 - **Data Analysis:** Pandas, NumPy, SQL.
 - **Libraries:** Scikit-Learn, TensorFlow, PyTorch, Streamlit, AutoML, Openai.
 - **Statistical Modeling:** Regression, Hypothesis Testing.
